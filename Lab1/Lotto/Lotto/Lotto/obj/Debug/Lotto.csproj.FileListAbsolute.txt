@@ -6,3 +6,4 @@ C:\Users\Andreas\Documents\GitHub\CSharp-kurs\Lab1\Lotto\Lotto\Lotto\obj\Debug\L
 C:\Users\Andreas\Documents\GitHub\CSharp-kurs\Lab1\Lotto\Lotto\Lotto\obj\Debug\Lotto.csproj.GenerateResource.Cache
 C:\Users\Andreas\Documents\GitHub\CSharp-kurs\Lab1\Lotto\Lotto\Lotto\obj\Debug\Lotto.exe
 C:\Users\Andreas\Documents\GitHub\CSharp-kurs\Lab1\Lotto\Lotto\Lotto\obj\Debug\Lotto.pdb
+C:\Users\Andreas\Documents\GitHub\CSharp-kurs\Lab1\Lotto\Lotto\Lotto\obj\Debug\Lotto.Form1.resources

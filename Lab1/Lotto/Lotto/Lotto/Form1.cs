@@ -31,5 +31,15 @@ namespace Lotto
         {
 
         }
+
+        private void playButton_Click(object sender, EventArgs e)
+        {
+            numberOfDrawsBox.Text = tal1Box.Text;
+        }
+
+        private void tal1Box_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

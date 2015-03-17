@@ -17,6 +17,10 @@ namespace Lotto
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+            Random random = new Random();
+            int randomNumber = random.Next(1, 35);
+            Console.WriteLine(randomNumber);
+            
         }
     }
 }

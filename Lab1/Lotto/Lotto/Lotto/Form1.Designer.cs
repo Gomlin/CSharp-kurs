@@ -55,6 +55,7 @@
             this.playButton.TabIndex = 0;
             this.playButton.Text = "Spela";
             this.playButton.UseVisualStyleBackColor = true;
+            this.playButton.Click += new System.EventHandler(this.playButton_Click);
             // 
             // tal1Box
             // 
@@ -62,6 +63,7 @@
             this.tal1Box.Name = "tal1Box";
             this.tal1Box.Size = new System.Drawing.Size(100, 23);
             this.tal1Box.TabIndex = 1;
+            this.tal1Box.TextChanged += new System.EventHandler(this.tal1Box_TextChanged);
             // 
             // tal2Box
             // 
